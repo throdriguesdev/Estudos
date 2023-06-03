@@ -20,4 +20,7 @@ public class Member {
     public int getLevel() {
         return this.level;
     }
+    public int getRank() {
+        return this.rank;
+    }
 }
