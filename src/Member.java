@@ -1,4 +1,3 @@
-package teste.com;
 
 public class Member {
     private String name;
@@ -22,7 +21,5 @@ public class Member {
     }
     public int getRank() {
         return this.rank;
-        testeerro
-
     }
 }
