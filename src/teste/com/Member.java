@@ -22,5 +22,7 @@ public class Member {
     }
     public int getRank() {
         return this.rank;
+        testeerro
+
     }
 }
